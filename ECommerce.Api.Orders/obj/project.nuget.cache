@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLq36ilHSviyFQDMNQ1WUdRYAM5nUCjP5obm2Qr5FvZlJgcfGXIwDnKgaPpuDrzHhimoUoHKf9d5ks+P4ZPb2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\impec\\Learning\\Microservices\\ECommerceApp\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\impec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
